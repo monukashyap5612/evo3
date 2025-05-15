@@ -1,4 +1,4 @@
-import { SettingsProvider } from './context/SettingsContext';
+import { SettingsProvider } from './context/SettingContext';
 
 export default function App() {
   return (
