@@ -1,5 +1,5 @@
 
-import { useSettings } from '../context/SettingsContext';
+import { useSettings } from '../context/SettingContext';
 
 export default function Settings() {
   const { theme, setTheme, layout, setLayout, todoLimit, setTodoLimit } = useSettings();
